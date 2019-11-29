@@ -1,0 +1,163 @@
+@import url("https://use.typekit.net/qfr0ndj.css");
+
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Montserrat|Oswald|Sacramento|Satisfy|UnifrakturMaguntia');
+
+body {
+	/* background-color:black; */
+}
+
+p {
+	margin: 0;
+}
+
+::selection {
+  background: yellow; /* WebKit/Blink Browsers */
+}
+
+#topbar {
+	margin:auto;
+	font-family:Helvetica,serif;
+	text-align:center;
+	margin-top:50px;
+	font-size:22px;
+}
+
+#topbar li {
+	display:inline;
+	margin:20px;
+}
+
+#topbar a {
+	text-decoration:none;
+	color:black;
+}
+
+#topbar a:hover {
+	color:red;
+	border-bottom:2px solid;
+	border-spacing:15px;
+}
+
+#albumlinks {
+	margin:auto;
+	font-family:Helvetica,serif;
+	text-align:center;
+	margin-top:50px;
+	font-size:22px;
+}
+
+#albumlinks li {
+	display:inline;
+	margin:20px;
+}
+
+#albumlinks a {
+	text-decoration:none;
+	color:black;
+}
+
+#albumlinks a:hover {
+	color:red;
+	border-bottom:2px solid;
+	border-spacing:15px;
+}
+
+#copyright {
+	position:fixed;
+   bottom:0;
+   width:100%;
+   height:60px;
+	font-size:12px;color:gray;text-align:center;font-family: acumin-pro, sans-serif
+}
+
+#songlist {
+	max-width:40%;
+	margin:auto;
+	font-size:22px;
+	font-family:Helvetica,serif;
+	line-height:1.7;
+}
+
+.rep {
+	color:black;
+}
+
+.rep:hover:after {
+	 content: url(rep.jpg);
+    display: block;
+    position: fixed;
+	 left:20px;
+	 top:30%;
+	 bottom:auto;
+	 width:200px;
+}
+
+.ts1989 {
+	color:#CEBDA1;
+}
+
+.ts1989:hover:after {
+	 content: url(1989.jpg);
+    display: block;
+    position: fixed;
+	 left:20px;
+	 top:30%;
+	 bottom:auto;
+	 width:200px;
+}
+
+.red {
+	color:#A52045;
+}
+
+.red:hover:after {
+	 content: url(red.jpg);
+    display: block;
+    position: fixed;
+	 left:20px;
+	 top:30%;
+	 bottom:auto;
+	 width:200px;
+}
+
+.sn {
+	color:#902F67;
+}
+
+.sn:hover:after {
+	 content: url(sn.jpg);
+    display: block;
+    position: fixed;
+	 left:20px;
+	 top:30%;
+	 bottom:auto;
+	 width:200px;
+}
+
+.fs {
+	color:#926E30;
+}
+
+.fs:hover:after {
+	 content: url(fs.jpg);
+    display: block;
+    position: fixed;
+	 left:20px;
+	 top:30%;
+	 bottom:auto;
+	 width:200px;
+}
+
+.ts {
+	color:#134A27;
+}
+
+.ts:hover:after {
+	 content: url(ts.jpg);
+    display: block;
+    position: fixed;
+	 left:20px;
+	 top:30%;
+	 bottom:auto;
+	 max-width:200px;
+}
