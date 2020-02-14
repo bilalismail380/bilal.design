@@ -249,8 +249,8 @@ hr {
 .text-on-photo img:hover {
 	/* filter:grayscale(40%); */
 	/* filter:grayscale(1%); */
-	filter:opacity(65%) grayscale(90%);
-	transform:skewX(1deg) skewY(1deg) scaleX(0.97) scaleY(0.97);
+	filter:grayscale(100%) opacity(40%);
+	transform: scaleX(0.89) scaleY(0.89);
 }
 
 .text-on-photo a {
