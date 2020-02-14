@@ -243,8 +243,7 @@ hr {
 }
 
 .text-on-photo img {
-	filter:grayscale(90%);
-	border:3px solid #ff471a;
+	filter:grayscale(100%) opacity(70%);
 }
 
 .text-on-photo img:hover {
