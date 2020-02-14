@@ -250,7 +250,7 @@ hr {
 	/* filter:grayscale(40%); */
 	/* filter:grayscale(1%); */
 	filter:grayscale(100%) opacity(40%);
-	transform: scaleX(0.89) scaleY(0.89);
+	transform: scaleX(0.94) scaleY(0.94);
 }
 
 .text-on-photo a {
