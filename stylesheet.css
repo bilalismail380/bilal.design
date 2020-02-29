@@ -11,7 +11,7 @@ p {
 }
 
 ::selection {
-  background: #ff471a; /* WebKit/Blink Browsers */
+  background: #d6321a; /* WebKit/Blink Browsers */
   color:white;
 }
 
@@ -35,7 +35,7 @@ p {
 
 #landing-box a:hover {
 	/* text-decoration:underline; */
-	color:#ff471a;
+	color:#d6321a;
 	position:relative;
 	/* font-weight:700; */
 }
@@ -118,7 +118,7 @@ p {
 }
 
 #bio-text a:hover {
-	color:#ff471a;
+	color:#d6321a;
 }
 
 .topbar {
@@ -141,7 +141,7 @@ p {
 }
 
 .topbar a:hover {
-   color:#ff471a;
+   color:#d6321a;
 	font-family:freight-text-pro, serif;
 }
 
@@ -170,7 +170,7 @@ hr {
 }
 
 .content-full a:hover {
-	color:#ff471a;
+	color:#d6321a;
 }
 
 .icon a {
@@ -182,7 +182,7 @@ hr {
 }
 
 .icon a:hover {
-	color:#ff471a;
+	color:#d6321a;
 	opacity:0.8;
 }
 
@@ -267,7 +267,7 @@ hr {
   font-weight:700;
   font-size:9vw;
   /* letter-spacing:3; */
-  color:#ff471a;
+  color:#d6321a;
   line-height:8vw;
 }
 
