@@ -78,6 +78,20 @@ p {
 	line-height:1.7;
 }
 
+.lover {
+	color:#e2afd1;
+}
+
+.lover:hover:after {
+	 content: url(lover.jpg);
+    display: block;
+    position: fixed;
+	 left:20px;
+	 top:30%;
+	 bottom:auto;
+	 width:200px;
+}
+
 .rep {
 	color:black;
 }
